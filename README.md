@@ -4,7 +4,6 @@
   
 
 # Hello, My name is Dima! 
-I am a MIPT student and in my free time I like to do coding
 
 ## 🔧 Technologies and tools
 - 💻 Languages: C, nasm, C++, Python
