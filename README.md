@@ -9,8 +9,12 @@ I am a MIPT student and in my free time I like to do coding
 - 💻 Languages: C, nasm, C++, Python
 - 🛠️ tools: Git, VS Code
 
-## 🚀 My projects
--[![Проект 2](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=proc&theme=radical)](https://github.com/BulgakovDmitry/proc)
+## 🚀 My projects  
+-[![project 1](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=proc&theme=radical)](https://github.com/BulgakovDmitry/proc)
+-[![project 2](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=DIFF_PROGRAM&theme=radical)](https://github.com/BulgakovDmitry/DIFF_PROGRAM)
+-[![project 3](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=AKINATOR&theme=radical)](https://github.com/BulgakovDmitry/AKINATOR)
+-[![project 4](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=singlyLinkedList&theme=radical)](https://github.com/BulgakovDmitry/singlyLinkedList)
+
 
 ## 📫 How to contact me
 <a href="https://t.me/Dimon_Bulgakov" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
