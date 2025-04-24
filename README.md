@@ -1,6 +1,6 @@
 <div style="height: 100vh;">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Welcome%20to%20my%20GitHub%20profile&fontSize=59&fontColor=ffffff&animation=twinkling&descAlignY=51&descAlign=62&&gradient=FF0F7B-F89B29&animation=scale&textShadow=0%200%2010px%23FF00FF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Welcome%20to%20my%20GitHub%20profile&fontSize=59&fontColor=ffffff&animation=twinkling&descAlignY=51&descAlign=62&animation=scale&textShadow=0%200%2010px%23FF00FF)
   
 # Hello, My name is Dima! 
 I am a MIPT student and in my free time I like to do coding
