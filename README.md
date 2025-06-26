@@ -10,7 +10,7 @@
 - 🛠️ tools: Git, VS Code
 
 ## 🚀 My projects  
--[![project 1](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=stack&theme=radical)](https://github.com/BulgakovDmitry/stack)
+[![Repo stack](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=stack&theme=outrun)](https://github.com/dangerUser45/HashTable)
 
 
 ## 📫 How to contact me
