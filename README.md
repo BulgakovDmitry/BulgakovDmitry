@@ -10,10 +10,10 @@
 - 🛠️ tools: Git, VS Code
 
 ## 🚀 My projects  
--[![project 1](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=proc&theme=radical)](https://github.com/BulgakovDmitry/proc)
--[![project 2](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=DIFF_PROGRAM&theme=radical)](https://github.com/BulgakovDmitry/DIFF_PROGRAM)
--[![project 3](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=AKINATOR&theme=radical)](https://github.com/BulgakovDmitry/AKINATOR)
--[![project 4](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=singlyLinkedList&theme=radical)](https://github.com/BulgakovDmitry/singlyLinkedList)
+-[![project 1](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=stack&theme=radical)](https://github.com/BulgakovDmitry/stack)
+##-[![project 2](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=DIFF_PROGRAM&theme=radical)](https://github.com/BulgakovDmitry/DIFF_PROGRAM)
+##-[![project 3](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=AKINATOR&theme=radical)](https://github.com/BulgakovDmitry/AKINATOR)
+##-[![project 4](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=singlyLinkedList&theme=radical)](https://github.com/BulgakovDmitry/singlyLinkedList)
 
 
 ## 📫 How to contact me
