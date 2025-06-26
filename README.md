@@ -15,6 +15,6 @@
 <a href="https://t.me/Dimon_Bulgakov" target="_blank"><img src="https://img.shields.io/badge/Telegram-39FF14?style=for-the-badge&logo=telegram&logoColor=black&labelColor=000000"></a>
 <a href="mailto:bulgakov.di@phystech.edu"><img src="https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=mail&logoColor=black&labelColor=000000"></a>  
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=190&section=footer&text=Stay%20Tuned!&fontSize=75&fontColor=39FF14&animation=scale&fontAlignY=75&textShadow=0%200%2015px%23FF00FF)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=190&section=footer&text=STAY%20TUNED!&fontSize=75&fontColor=39FF14&animation=scale&fontAlignY=75&textShadow=0%200%2015px%23FF00FF)
 
 </div>
