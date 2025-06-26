@@ -1,6 +1,6 @@
 <div align="center" style="background-color: #000000; padding: 2rem; border-radius: 15px; border: 3px solid #FF00FF; box-shadow: 0 0 20px #FF00FF;">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=210&section=header&text=WELCOME_TO_MY_PROFILE&fontSize=59&fontColor=39FF14&animation=twinkling&textShadow=0%200%2015px%23FF00FF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=210&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=59&fontColor=39FF14&animation=twinkling&textShadow=0%200%2015px%23FF00FF)
 
 # <span style="color: #39FF14; text-shadow: 0 0 10px #39FF14;">Hello, My name is Dima!</span> 
 
