@@ -9,7 +9,7 @@
 - <span style="color: #00FFFF;">🛠️ Tools:</span> <span style="color: #39FF14;">Git</span>, <span style="color: #39FF14;">VS Code</span>
 
 ## <span style="color: #FF00FF; border-bottom: 2px dashed #00FFFF;">🚀 My projects</span> 
-[![Repo differentiator](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=differentiator&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14)](https://github.com/BulgakovDmitry/differentiator)
+[![Repo diff](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=differentiator&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14)](https://github.com/BulgakovDmitry/differentiator)
 [![Repo stack](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=stack&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14)](https://github.com/BulgakovDmitry/stack)
 [![Repo spu](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=spu&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14)](https://github.com/BulgakovDmitry/spu)
 
