@@ -10,8 +10,9 @@
 
 ## <span style="color: #FF00FF; border-bottom: 2px dashed #00FFFF;">🚀 My projects</span> 
 [![Repo diff](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=differentiator&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14)](https://github.com/BulgakovDmitry/differentiator)
-[![Repo stack](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=stack&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14)](https://github.com/BulgakovDmitry/stack)
 [![Repo spu](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=spu&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14)](https://github.com/BulgakovDmitry/spu)
+[![Repo stack](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=stack&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14)](https://github.com/BulgakovDmitry/stack)
+[![Repo vector](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=vector&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14)](https://github.com/BulgakovDmitry/vector)
 
 ## <span style="color: #FF00FF; border-bottom: 2px dashed #00FFFF;">📫 How to contact me</span>
 <a href="https://t.me/Dimon_Bulgakov" target="_blank"><img src="https://img.shields.io/badge/Telegram-39FF14?style=for-the-badge&logo=telegram&logoColor=black&labelColor=000000"></a>
