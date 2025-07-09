@@ -14,7 +14,9 @@
 ## <span style="color: #FF00FF; border-bottom: 2px dashed #00FFFF; text-shadow: 0 0 5px #FF00FF;">🚀 My projects</span> 
 [![Repo diff](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=differentiator&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/differentiator)
 [![Repo spu](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=spu&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/spu)
+
 [![Repo stack](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=stack&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/stack)
+
 [![Repo vector](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=vector&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/vector)
 
 ## <span style="color: #FF00FF; border-bottom: 2px dashed #00FFFF;">📫 How to contact me</span>
