@@ -4,8 +4,6 @@
 
 # <span style="color: #39FF14; text-shadow: 0 0 15px #39FF14; animation: flicker 2s infinite alternate;">Hello, My name is Dima!</span> 
 
-### <span style="color: #FF00FF; text-shadow: 0 0 10px #FF00FF;">⚡ Full-stack low-level magician ⚡</span>
-
 ## <span style="color: #FF00FF; border-bottom: 2px dashed #00FFFF; text-shadow: 0 0 5px #FF00FF;">🔧 Technologies and tools</span>
 - <span style="color: #00FFFF; text-shadow: 0 0 5px #00FFFF;">💻 Languages:</span> <span style="color: #FF00FF; text-shadow: 0 0 5px #FF00FF;">C</span>, <span style="color: #FF00FF; text-shadow: 0 0 5px #FF00FF;">nasm</span>, <span style="color: #FF00FF; text-shadow: 0 0 5px #FF00FF;">C++</span>, <span style="color: #FF00FF; text-shadow: 0 0 5px #FF00FF;">Python</span>
 - <span style="color: #00FFFF; text-shadow: 0 0 5px #00FFFF;">🛠️ Tools:</span> <span style="color: #39FF14; text-shadow: 0 0 5px #39FF14;">Git</span>, <span style="color: #39FF14; text-shadow: 0 0 5px #39FF14;">VS Code</span>, <span style="color: #39FF14; text-shadow: 0 0 5px #39FF14;">GDB</span>
