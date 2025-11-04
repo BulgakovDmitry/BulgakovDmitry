@@ -9,7 +9,8 @@
 - <span style="color: #00FFFF; text-shadow: 0 0 5px #00FFFF;">🛠️ Tools:</span> <span style="color: #39FF14; text-shadow: 0 0 5px #39FF14;">Git</span>, <span style="color: #39FF14; text-shadow: 0 0 5px #39FF14;">VS Code</span>, <span style="color: #39FF14; text-shadow: 0 0 5px #39FF14;">GDB</span>
 - <span style="color: #00FFFF; text-shadow: 0 0 5px #00FFFF;">🔥 Currently learning:</span> <span style="color: #FF00FF; text-shadow: 0 0 5px #FF00FF;">Rust</span>, <span style="color: #FF00FF; text-shadow: 0 0 5px #FF00FF;">Linux kernel</span>
 
-## <span style="color: #FF00FF; border-bottom: 2px dashed #00FFFF; text-shadow: 0 0 5px #FF00FF;">🚀 My projects</span> 
+## <span style="color: #FF00FF; border-bottom: 2px dashed #00FFFF; text-shadow: 0 0 5px #FF00FF;">🚀 My projects</span>
+[![Repo Super_Biba_Boba_Language](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=Super_Biba_Boba_Language&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/Super_Biba_Boba_Language)
 [![Repo Range_queries](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=Range_queries&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/Range_queries)
 [![Repo 3D_triangles](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=3D_triangles&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/3D_triangles)
 [![Repo LFU_cache](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=LFU_cache&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/LFU_cache)
