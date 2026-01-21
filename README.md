@@ -1,13 +1,19 @@
 <div align="center" style="background-color: #000000; padding: 2rem; border-radius: 15px; border: 3px solid #FF00FF; box-shadow: 0 0 20px #FF00FF, 0 0 40px #00FFFF, 0 0 60px #39FF14;">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=210&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=59&fontColor=39FF14&animation=twinkling&textShadow=0%200%2015px%23FF00FF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=140&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=50&fontColor=39FF14&animation=twinkling&textShadow=0%200%2015px%23FF00FF)
+
 
 # <span style="color: #39FF14; text-shadow: 0 0 15px #39FF14; animation: flicker 2s infinite alternate;">Hello, My name is Dima!</span> 
 
-## <span style="color: #FF00FF; border-bottom: 2px dashed #00FFFF; text-shadow: 0 0 5px #FF00FF;">🔧 Technologies and tools</span>
-- <span style="color: #00FFFF; text-shadow: 0 0 5px #00FFFF;">💻 Languages:</span> <span style="color: #FF00FF; text-shadow: 0 0 5px #FF00FF;">C</span>, <span style="color: #FF00FF; text-shadow: 0 0 5px #FF00FF;">nasm</span>, <span style="color: #FF00FF; text-shadow: 0 0 5px #FF00FF;">C++</span>, <span style="color: #FF00FF; text-shadow: 0 0 5px #FF00FF;">Python</span>
-- <span style="color: #00FFFF; text-shadow: 0 0 5px #00FFFF;">🛠️ Tools:</span> <span style="color: #39FF14; text-shadow: 0 0 5px #39FF14;">Git</span>, <span style="color: #39FF14; text-shadow: 0 0 5px #39FF14;">VS Code</span>, <span style="color: #39FF14; text-shadow: 0 0 5px #39FF14;">GDB</span>
-- <span style="color: #00FFFF; text-shadow: 0 0 5px #00FFFF;">🔥 Currently learning:</span> <span style="color: #FF00FF; text-shadow: 0 0 5px #FF00FF;">Rust</span>, <span style="color: #FF00FF; text-shadow: 0 0 5px #FF00FF;">Linux kernel</span>
+## 💻 Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Make](https://img.shields.io/badge/Make-%23A42E2B.svg?style=for-the-badge&logo=gnu&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
 
 ## <span style="color: #FF00FF; border-bottom: 2px dashed #00FFFF; text-shadow: 0 0 5px #FF00FF;">🚀 My projects</span>
 [![Repo Biba_Boba_Buba_Language](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=Biba_Boba_Buba_Language&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/Biba_Boba_Buba_Language)
@@ -22,10 +28,15 @@
 [![Repo vector](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=vector&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/vector)
 
 ## <span style="color: #FF00FF; border-bottom: 2px dashed #00FFFF;">📫 How to contact me</span>
-<a href="https://t.me/Dimon_Bulgakov" target="_blank"><img src="https://img.shields.io/badge/Telegram-39FF14?style=for-the-badge&logo=telegram&logoColor=black&labelColor=000000"></a>
-<a href="mailto:bulgakov.di@phystech.edu"><img src="https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=mail&logoColor=black&labelColor=000000"></a>  
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=190&section=footer&text=STAY%20TUNED!&fontSize=75&fontColor=39FF14&animation=scale&fontAlignY=75&textShadow=0%200%2015px%23FF00FF)
-
+<a href="https://telegram.me/Dimon_Bulgakov">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+<a href="https://vk.ru/id483677599">
+  <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
+</a>
+<a href="mailto:bulgakov.di@phystech.edu">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
