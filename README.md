@@ -5,7 +5,8 @@
 
 # <span style="color: #39FF14; text-shadow: 0 0 15px #39FF14; animation: flicker 2s infinite alternate;">Hello, My name is Dima!</span> 
 
-## 💻 Tech Stack
+<h3> Tech Stack </h3>
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -20,13 +21,23 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![VS%20Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-
-
-## <span style="color: #FF00FF; border-bottom: 2px dashed #00FFFF; text-shadow: 0 0 5px #FF00FF;">🚀 My projects</span>
+<h3>
+  Here are examples of some of my projects from
+  <a href="https://github.com/tilir">K.I.Vladimirov</a>
+  one-year C++ course.
+</h3>
+  
 [![Repo Biba_Boba_Buba_Language](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=Biba_Boba_Buba_Language&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/Biba_Boba_Buba_Language)
 [![Repo Range_queries](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=Range_queries&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/Range_queries)
 [![Repo 3D_triangles](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=3D_triangles&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/3D_triangles)
-[![Repo LFU_cache](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=LFU_cache&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/LFU_cache)
+[![Repo LFU_cache](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=LFU_cache&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/LFU_cache)\
+  
+<h3>
+  Here are examples of some of my projects from
+  <a href="https://github.com/ded32">I.R.Dedinsky</a>
+  one-year C and Assembler course.
+</h3>
+  
 [![Repo myPrintf](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=myPrintf&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/myPrintf)
 [![Repo myLang](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=myLanguage&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/myLanguage)
 [![Repo stack](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=stack&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/stack)
