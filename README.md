@@ -31,7 +31,7 @@
 [![Repo Range_queries](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=Range_queries&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/Range_queries)
 [![Repo 3D_triangles](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=3D_triangles&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/3D_triangles)
 [![Repo Matrix](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=Matrix&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/Matrix)
-[![Repo LFU_cache](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=LFU_cache&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/LFU_cache)
+<!-- [![Repo LFU_cache](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=LFU_cache&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/LFU_cache) -->
   
 <h3>
   Here are examples of some of my projects from
