@@ -14,7 +14,6 @@
 ![Make](https://img.shields.io/badge/Make-%23A42E2B.svg?style=for-the-badge&logo=gnu&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![NASM](https://img.shields.io/badge/NASM%20x86-%232EA44F.svg?style=for-the-badge&log)
 ![Assembly](https://img.shields.io/badge/Assembly-%23614BF2.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
