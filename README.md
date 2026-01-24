@@ -25,6 +25,8 @@
   Here are examples of some of my projects from
   <a href="https://github.com/tilir">K.I.Vladimirov</a>
   one-year C++ course.
+
+  (second year)
 </h3>
   
 [![Repo Biba_Boba_Buba_Language](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=Biba_Boba_Buba_Language&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/Biba_Boba_Buba_Language)
@@ -37,6 +39,8 @@
   Here are examples of some of my projects from
   <a href="https://github.com/ded32">I.R.Dedinsky</a>
   one-year C and Assembler course.
+
+  (first year)
 </h3>
   
 [![Repo myPrintf](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=myPrintf&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/myPrintf)
