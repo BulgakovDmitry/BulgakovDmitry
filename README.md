@@ -3,8 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=140&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=50&fontColor=39FF14&animation=twinkling&textShadow=0%200%2015px%23FF00FF)
 
 
-# <span style="color: #39FF14; text-shadow: 0 0 15px #39FF14; animation: flicker 2s infinite alternate;">Hello, my name is Dima. I am an enthusiastic developer with a passion for programming and a keen interest in both high-level and low-level programming.</span> 
-
 <h3> Tech Stack </h3>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
