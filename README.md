@@ -42,7 +42,7 @@
 </h3>
 
 - [myPrintf](https://github.com/BulgakovDmitry/myPrintf)
-- [myLang](https://github.com/BulgakovDmitry/myLang)
+- [myLanguage](https://github.com/BulgakovDmitry/myLanguage)
 - [stack](https://github.com/BulgakovDmitry/stack)
 - [diff](https://github.com/BulgakovDmitry/diff)
 - [spu](https://github.com/BulgakovDmitry/spu)
