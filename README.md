@@ -44,7 +44,7 @@
 - [myPrintf](https://github.com/BulgakovDmitry/myPrintf)
 - [myLanguage](https://github.com/BulgakovDmitry/myLanguage)
 - [stack](https://github.com/BulgakovDmitry/stack)
-- [diff](https://github.com/BulgakovDmitry/diff)
+- [differentiator](https://github.com/BulgakovDmitry/differentiator)
 - [spu](https://github.com/BulgakovDmitry/spu)
 - [vector](https://github.com/BulgakovDmitry/vector)
 
