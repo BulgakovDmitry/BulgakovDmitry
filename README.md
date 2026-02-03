@@ -25,11 +25,12 @@
 
   (second year)
 </h3>
-  
-[![Repo Biba_Boba_Buba_Language](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=Biba_Boba_Buba_Language&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/Biba_Boba_Buba_Language)
-[![Repo Range_queries](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=Range_queries&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/Range_queries)
-[![Repo 3D_triangles](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=3D_triangles&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/3D_triangles)
-[![Repo Matrix](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=Matrix&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/Matrix)
+
+- [Biba_Boba_Buba_Language](https://github.com/BulgakovDmitry/Biba_Boba_Buba_Language)
+- [Matrix](https://github.com/BulgakovDmitry/Matrix)
+- [3D_triangles](https://github.com/BulgakovDmitry/3D_triangles)
+- [Range_queries](https://github.com/BulgakovDmitry/Range_queries)
+
 <!-- [![Repo LFU_cache](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=LFU_cache&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/LFU_cache) -->
   
 <h3>
@@ -39,13 +40,13 @@
 
   (first year)
 </h3>
-  
-[![Repo myPrintf](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=myPrintf&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/myPrintf)
-[![Repo myLang](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=myLanguage&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/myLanguage)
-[![Repo stack](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=stack&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/stack)
-[![Repo diff](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=differentiator&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/differentiator)
-[![Repo spu](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=spu&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/spu)
-[![Repo vector](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=vector&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/vector)
+
+- [myPrintf](https://github.com/BulgakovDmitry/myPrintf)
+- [myLang](https://github.com/BulgakovDmitry/myLang)
+- [stack](https://github.com/BulgakovDmitry/stack)
+- [diff](https://github.com/BulgakovDmitry/diff)
+- [spu](https://github.com/BulgakovDmitry/spu)
+- [vector](https://github.com/BulgakovDmitry/vector)
 
 ## <span style="color: #FF00FF; border-bottom: 2px dashed #00FFFF;">📫 How to contact me</span>
 
