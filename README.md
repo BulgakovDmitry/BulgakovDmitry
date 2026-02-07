@@ -27,6 +27,7 @@
 </h3>
 
 - [Biba_Boba_Buba_Language](https://github.com/BulgakovDmitry/Biba_Boba_Buba_Language)
+- [Bitonic_sort](https://github.com/BulgakovDmitry/Bitonic_sort)
 - [Matrix](https://github.com/BulgakovDmitry/Matrix)
 - [3D_triangles](https://github.com/BulgakovDmitry/3D_triangles)
 - [Range_queries](https://github.com/BulgakovDmitry/Range_queries)
