@@ -4,7 +4,7 @@
 
 # Hello, my name is Dima
 **I am a second-year student at MIPT**  
-**You can find more information about me in my [CV](CV.pdf).**
+**You can find more information about me in my [CV](main.pdf).**
 
 
 <h3> Tech Stack </h3>
