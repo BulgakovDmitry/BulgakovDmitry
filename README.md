@@ -2,6 +2,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=140&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=50&fontColor=39FF14&animation=twinkling&textShadow=0%200%2015px%23FF00FF)
 
+# Hello, my name is Dima
+**I am a second-year student at MIPT**  
+**You can find more information about me in my [CV](CV.pdf).**
+
 
 <h3> Tech Stack </h3>
 
