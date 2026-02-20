@@ -23,6 +23,15 @@
 ![VS%20Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <h3>
+  Here is my project from "Introduction to tensor compilers" course.
+
+  (second year)
+</h3>
+
+- [Tensor compiler](https://github.com/BulgakovDmitry/Tensor_compiler) - Implementation of the biba-boba tensor compiler.
+
+
+<h3>
   Here are examples of some of my projects from
   <a href="https://github.com/tilir">K.I.Vladimirov</a>
   one-year C++ course.
