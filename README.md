@@ -39,7 +39,7 @@
   (second year)
 </h3>
 
-- [Biba_Boba_Buba_Language](https://github.com/BulgakovDmitry/Biba_Boba_Buba_Language)
+- [ParaCL_Compiler](https://github.com/BulgakovDmitry/ParaCL_Compiler)
 - [Bitonic_sort](https://github.com/BulgakovDmitry/Bitonic_sort)
 - [Matrix](https://github.com/BulgakovDmitry/Matrix)
 - [3D_triangles](https://github.com/BulgakovDmitry/3D_triangles)
