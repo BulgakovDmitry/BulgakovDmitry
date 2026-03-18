@@ -22,14 +22,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![VS%20Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<h3>
-  Here is my project from "Introduction to tensor compilers" course.
-
-  (second year)
-</h3>
-
-- [Tensor compiler](https://github.com/BulgakovDmitry/Tensor_compiler) - Implementation of the biba-boba tensor compiler.
-
 
 <h3>
   Here are examples of some of my projects from
@@ -46,7 +38,16 @@
 - [Range_queries](https://github.com/BulgakovDmitry/Range_queries)
 
 <!-- [![Repo LFU_cache](https://github-readme-stats.vercel.app/api/pin/?username=BulgakovDmitry&repo=LFU_cache&theme=dark&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=39FF14&border_radius=15&border_width=3)](https://github.com/BulgakovDmitry/LFU_cache) -->
-  
+
+<h3>
+  Here is my project from "Introduction to tensor compilers" course.
+
+  (second year)
+</h3>
+
+- [Tensor compiler](https://github.com/BulgakovDmitry/Tensor_compiler) - Implementation of the biba-boba tensor compiler.
+
+
 <h3>
   Here are examples of some of my projects from
   <a href="https://github.com/ded32">I.R.Dedinsky</a>
